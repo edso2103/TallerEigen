@@ -355,7 +355,7 @@ sudo apt update
 #sudo apt-get install libboost-all-dev
 sudo apt update
 ```
-<br>**4. Se crea el enlace simbólico de la biblioteca BOOST** 
+<br>**4. Crear enlace simbólico de la biblioteca BOOST** 
 ```
 #ln -sf /usr/include/boost boost
 sudo apt update
@@ -367,15 +367,18 @@ sudo apt update
 ```
 <br>**6. Configurar QT**
 * Ir a la sección de "Help", seleccionar "About Plugins" y desactivar la opción "ClangCodeModel"
-* Ir a la sección de "Projects", seleccionar "Run", y activar la opción "Run in terminal"
+* Ir a la sección de "Projects", seleccionar "Run", y activar la opción "Run in terminal"<br>
+
 <br>**7. Ejecutar el programa**
 * Abrir proyecto en "Open Project"
 * Seleccionar el archivo "main.cpp"
 * Presionar control+R
 <br>
-Luego de seguir los pasos anteriores, se abrirá la terminal con el menú de opciones, luego podrá digitar el número del código que desea vistualizar<br>
-Para mayor entendimiento del proceso a realizar, revisar la figura 1.
+Luego de seguir los pasos anteriores, se abrirá la terminal con el menú de opciones, luego podrá digitar el número del código que desea vistualizar<br><br>
+Para mayor entendimiento del proceso a realizar, revisar la figura 1.<br><br>
 <p align="center"> <img src="https://github.com/edso2103/TallerEigen/blob/main/Figura1.png" width="800"/> </p>
+
+<p align="center"><i><b>Figura 1</i></b></p>
 
 # Conclusiones
 
@@ -388,4 +391,3 @@ Para mayor entendimiento del proceso a realizar, revisar la figura 1.
 * Math Exercises & Math Problems: Matrix Equations. (s. f.). Math Exercises. Recuperado 20 de agosto de 2022, de https://www.math-exercises.com/matrices/matrix-equations
 
 
-<p align="center"><i><b>Figura 1</i></b></p>
