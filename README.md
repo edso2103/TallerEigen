@@ -15,7 +15,7 @@
 
 # Introducción
 
-La biblioteca Eigen de C++ es usada para el desarrollo de operaciones de álgebra lineal , tales como, operación de matrices, vectores, solucionadores numéricos, entre otros.
+La biblioteca Eigen de C++ es usada para el desarrollo de operaciones de álgebra lineal , tales como, operación de matrices, vectores, solucionadores numéricos, entre otros.<br>
 Las plantillas que maneja Eigen permiten usar:<br>
 * Diferentes tamaños de matrices<br>
 * Todos los tipos numéricos<br>
